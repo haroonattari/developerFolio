@@ -132,8 +132,7 @@ Change username to your github username to get your projects
 
 
 ## Deployment 📦 
-Once you have done with your setup. You need to put your website online!
-I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to achieve this on the EASIEST WAY
+Once you are done with all above steps, you need to host this to your website online! I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to achieve this on the EASIEST WAY
 
 
 
